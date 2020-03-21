@@ -1,0 +1,71 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
+@{
+	Layout = null;
+}
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/assets/css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Karla:700|Open+Sans:400,600|Montserrat|Raleway:300,400|Roboto:400,700&display=swap" rel="stylesheet">
+
+    <title>Aarhus Web Dev Corp</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-light justify-content-end">
+        <p class="navbar-brand">
+            &#60;/&#62;
+        </p>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
+            @Html.Partial("_mainMenu")
+        </div>
+    </nav>
+
+
+
+
+    <div class="min-height">@RenderBody()</div>
+
+
+    <footer class="card-footer py-3">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-10 order-lg-0 order-md-0 order-12">
+                    <p class="footer-logo">&#60;Aarhus Web Developers Corporation /&#62;</p>
+                    <p class="footer-copyright"><i class="fas fa-copyright"></i> 2020 All Rights Reserved</p>
+                </div>
+
+                <div class="col-lg-2 footer-contact">
+                    <p>customer-support@aarhusdev.dk</p>
+                    <p>+4 8 15 16 23 42</p>
+                    <p>
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-linkedin"></i>
+                        <i class="fab fa-instagram"></i>
+                        <i class="fab fa-twitter"></i>
+
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/popper.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://kit.fontawesome.com/561a836f98.js" crossorigin="anonymous"></script>
+</body>
+</html>

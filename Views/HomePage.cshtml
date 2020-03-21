@@ -1,0 +1,76 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.HomePage>
+@using ContentModels = Umbraco.Web.PublishedModels;
+@{
+    Layout = "Master.cshtml";
+}
+<div class="ellipse"></div>
+
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-6 col-sm-12 align-self-center order-lg-0 order-md-0 order-12">
+            <h1 class="home-headline">@Model.Value("homeTitle")</h1>
+            <p class="home-content">@Model.Value("homeMainContent")</p>
+            <button class="button">Learn more</button>
+
+        </div>
+
+        <div class="col-lg-6 col-md-6 col-sm-12">
+            <img src="~/assets/images/landing-page-image2.png" class="img-fluid" alt="image" />
+        </div>
+    </div>
+</div>
+
+
+<hr />
+
+<div class="container-fluid">
+    <h1 class="news-headline">News</h1>
+
+    <div class="row">
+
+        <!--HIGHLIGHTS COLUMN-->
+        <div class="col-lg-5 col-md-12 col-sm-12">
+            <p>Highlight</p>
+            <img src="~/assets/images/news-placeholder2.jpg" alt="" class="img-fluid" />
+            <p class="label-big pink">Events</p>
+            <h3 class="highlight-headline">This is a longer headline hello yes</h3>
+            <p class="highlights-content">Cupcake ipsum dolor sit amet halvah pie. Sweet roll ice cream jelly marshmallow chocolate cake. Powder danish lemon drops topping.</p>
+            <p class="highlights-author">Author's Name</p>
+            <p class="highlights-author">13th March, 2020</p>
+        </div>
+
+
+        <!--RECENT COLUMN-->
+        <div class="col-lg-6 col-md-12 col-sm-12">
+            <p>Recent</p>
+
+            <div class="row">
+                <div class="col-lg-3">
+                    <img src="~/assets/images/news-placeholder2.jpg" alt="" class="img-small" />
+                </div>
+
+                <div class="col-lg-6">
+                    <p class="label-small pink">Events</p>
+                    <h3 class="recent-headline">This is a longer headline hello yes</h3>
+                    <p class="recent-content">Cupcake ipsum dolor sit amet halvah pie. Sweet roll ice cream jelly marshmallow chocolate cake. Powder danish lemon drops topping.</p>
+                    <p class="recent-author">Author's Name</p>
+                    <p class="recent-author">13th March, 2020</p>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <img src="~/assets/images/news-placeholder2.jpg" alt="" class="img-small" />
+                    <p class="label-small pink">Events</p>
+                    <h3 class="recent-headline">This is a longer headline hello yes</h3>
+                    <p class="recent-content">Cupcake ipsum dolor sit amet halvah pie. Sweet roll ice cream jelly marshmallow chocolate cake. Powder danish lemon drops topping.</p>
+                    <p class="recent-author">Author's Name</p>
+                    <p class="recent-author">13th March, 2020</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

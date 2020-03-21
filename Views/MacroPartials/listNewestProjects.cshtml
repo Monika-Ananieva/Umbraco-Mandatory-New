@@ -1,0 +1,13 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+@{ 
+    string numOfArticles = Model.MacroParameters["listNewestProjects"].ToString();
+
+    var root = Model.Content.Root();
+
+    var items = root.FirstChildOfType("projectsOverview")
+        .Children()
+        .Where("Visible")
+        .OrderBy("CreateDate desc")
+        .Take(Convert.ToInt32(numOfArticles));
+}

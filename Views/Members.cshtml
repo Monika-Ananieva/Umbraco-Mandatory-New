@@ -1,0 +1,94 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.Members>
+@using Umbraco.Core.Services;
+@{
+    IMemberService memberService = Services.MemberService;
+    var members = memberService.GetMembersByGroup("Active");
+}
+@using ContentModels = Umbraco.Web.PublishedModels;
+@{
+    Layout = "Master.cshtml";
+}
+
+<div class="members">
+
+    @foreach (var member in members)
+    {
+        string imageUdi = member.GetValue<string>("photo");
+
+        if (!string.IsNullOrEmpty(imageUdi))
+        {
+            string imageUrl = Umbraco.PublishedContent(Udi.Parse(imageUdi)).Url;
+
+            <img src="@imageUrl" class="rounded-circle" />
+        }
+
+        <p>
+            @member.Name <br>
+            @member.GetValue("address")<br>
+            @member.GetValue("zip")
+            @member.GetValue("city") <br>
+            Email: @member.Email<br>
+        </p>
+
+        if (member.GetValue("skills") != null)
+        {
+            string[] skills = member.GetValue("skills").ToString().Split(',');
+            string skillString = string.Join(", ", skills.Select(item => item)).Replace("\"", "").TrimStart('[').TrimEnd(']');
+            <span>@skillString</span>
+        }
+    }
+
+</div>
+
+<div class="container-fluid members">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="member-big-box">
+                <div class="member-top-box"></div>
+
+                <div class="member-image">
+                    <img src="~/assets/images/cat-member.png" alt="Alternate Text" class="rounded-circle" />
+                </div>
+
+                <div class="content-address">
+                    <h1>Dimitar Krastev</h1>
+                    <p>Avaenget 99</p>
+                    <p>8250 Aarhus</p>
+                    <p>dimitar.krastev.design@gmail.com</p>
+                </div>
+
+                <div class="member-bottom-box">
+                    <div class="content-skills">
+                        <h1>Skills</h1>
+                        <p>CSS, HTML5, Wordpress</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-4">
+            <div class="member-big-box">
+                <div class="member-top-box"></div>
+
+                <div class="member-image">
+                    <img src="~/assets/images/cat-member.png" alt="Alternate Text" class="rounded-circle"/>
+                </div>
+
+                <div class="content-address">
+                    <h1>Dimitar Krastev</h1>
+                    <p>Avaenget 99</p>
+                    <p>8250 Aarhus</p>
+                    <p>dimitar.krastev.design@gmail.com</p>
+                </div>
+
+                <div class="member-bottom-box">
+                    <div class="content-skills">
+                        <h1>Skills</h1>
+                        <p>CSS, HTML5, Wordpress</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

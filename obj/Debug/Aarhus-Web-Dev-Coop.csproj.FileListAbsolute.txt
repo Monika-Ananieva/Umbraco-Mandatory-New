@@ -1,0 +1,606 @@
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\sqlceca40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\sqlcecompact40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\sqlceer40EN.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\sqlceme40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\sqlceqp40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\amd64\sqlcese40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\sqlceca40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\sqlcecompact40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\sqlceer40EN.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\sqlceme40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\sqlceqp40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\x86\sqlcese40.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Aarhus-Web-Dev-Coop.dll.config
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Aarhus-Web-Dev-Coop.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Aarhus-Web-Dev-Coop.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\csc.exe
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\csc.exe.config
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\csc.rsp
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\csi.exe
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\csi.exe.config
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\csi.rsp
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.AppContext.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Collections.Immutable.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Console.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Globalization.Calendars.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.IO.Compression.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.IO.FileSystem.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Net.Http.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Net.Sockets.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Reflection.Metadata.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.ValueTuple.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Xml.XPath.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\vbc.exe
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\vbc.exe.config
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\vbc.rsp
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\VBCSCompiler.exe
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\roslyn\VBCSCompiler.exe.config
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ClientDependency.Core.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ClientDependency.Core.Mvc.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\CSharpTest.Net.Collections.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Examine.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\HtmlAgilityPack.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ICSharpCode.SharpZipLib.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ImageProcessor.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ImageProcessor.Web.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Annotation.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Mvc.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Web.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.WebApi.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Lucene.Net.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Markdown.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Security.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Web.Infrastructure.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\MiniProfiler.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\MiniProfiler.Shared.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Newtonsoft.Json.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\NPoco.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Owin.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Semver.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Enrichers.Process.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Enrichers.Thread.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Filters.Expressions.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Formatting.Compact.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Formatting.Compact.Reader.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Settings.AppSettings.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Sinks.Async.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Sinks.File.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Sinks.Map.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Superpower.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Data.SqlServerCe.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Data.SqlServerCe.Entity.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Diagnostics.DiagnosticSource.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Net.Http.Formatting.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Threading.Tasks.Dataflow.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.ValueTuple.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Helpers.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Http.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Http.WebHost.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Mvc.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Razor.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.WebPages.Deployment.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.WebPages.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.WebPages.Razor.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Core.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Examine.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.ModelsBuilder.Embedded.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Web.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Web.UI.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ClientDependency.Core.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ClientDependency.Core.Mvc.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\CSharpTest.Net.Collections.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Examine.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\HtmlAgilityPack.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\HtmlAgilityPack.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ImageProcessor.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\ImageProcessor.Web.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Annotation.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Mvc.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Web.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.Web.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.WebApi.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.WebApi.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\LightInject.WebApi.dll.config
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Lucene.Net.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Lucene.Net.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Security.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\MiniProfiler.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\MiniProfiler.Shared.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Newtonsoft.Json.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Newtonsoft.Json.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Semver.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Enrichers.Thread.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Filters.Expressions.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Formatting.Compact.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Formatting.Compact.Reader.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Sinks.Async.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Sinks.File.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Serilog.Sinks.Map.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Superpower.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Diagnostics.DiagnosticSource.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Net.Http.Formatting.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Threading.Tasks.Dataflow.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.ValueTuple.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Helpers.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Http.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Http.WebHost.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Mvc.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.Razor.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.WebPages.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.WebPages.Deployment.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\System.Web.WebPages.Razor.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Core.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Core.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Examine.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Examine.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.ModelsBuilder.Embedded.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.ModelsBuilder.Embedded.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Web.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Web.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\bin\Umbraco.Web.UI.xml
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\obj\Debug\Aarhus-Web-Dev-Coop.csproj.CopyComplete
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\obj\Debug\Aarhus-Web-Dev-Coop.dll
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\obj\Debug\Aarhus-Web-Dev-Coop.pdb
+E:\school\2nd sem\CMS\Mandatory\Aarhus-Web-Dev-Coop\obj\Debug\Aarhus-Web-Dev-Coop.csprojAssemblyReference.cache
+E:\Git\Umbraco-Mandatory\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Git\Umbraco-Mandatory\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Git\Umbraco-Mandatory\bin\amd64\sqlceca40.dll
+E:\Git\Umbraco-Mandatory\bin\amd64\sqlcecompact40.dll
+E:\Git\Umbraco-Mandatory\bin\amd64\sqlceer40EN.dll
+E:\Git\Umbraco-Mandatory\bin\amd64\sqlceme40.dll
+E:\Git\Umbraco-Mandatory\bin\amd64\sqlceqp40.dll
+E:\Git\Umbraco-Mandatory\bin\amd64\sqlcese40.dll
+E:\Git\Umbraco-Mandatory\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Git\Umbraco-Mandatory\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Git\Umbraco-Mandatory\bin\x86\sqlceca40.dll
+E:\Git\Umbraco-Mandatory\bin\x86\sqlcecompact40.dll
+E:\Git\Umbraco-Mandatory\bin\x86\sqlceer40EN.dll
+E:\Git\Umbraco-Mandatory\bin\x86\sqlceme40.dll
+E:\Git\Umbraco-Mandatory\bin\x86\sqlceqp40.dll
+E:\Git\Umbraco-Mandatory\bin\x86\sqlcese40.dll
+E:\Git\Umbraco-Mandatory\bin\Aarhus-Web-Dev-Coop.dll.config
+E:\Git\Umbraco-Mandatory\bin\Aarhus-Web-Dev-Coop.dll
+E:\Git\Umbraco-Mandatory\bin\Aarhus-Web-Dev-Coop.pdb
+E:\Git\Umbraco-Mandatory\bin\roslyn\csc.exe
+E:\Git\Umbraco-Mandatory\bin\roslyn\csc.exe.config
+E:\Git\Umbraco-Mandatory\bin\roslyn\csc.rsp
+E:\Git\Umbraco-Mandatory\bin\roslyn\csi.exe
+E:\Git\Umbraco-Mandatory\bin\roslyn\csi.exe.config
+E:\Git\Umbraco-Mandatory\bin\roslyn\csi.rsp
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git\Umbraco-Mandatory\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.AppContext.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Collections.Immutable.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Console.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Globalization.Calendars.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.IO.Compression.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.IO.FileSystem.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Net.Http.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Net.Sockets.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.ValueTuple.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Xml.XPath.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Git\Umbraco-Mandatory\bin\roslyn\vbc.exe
+E:\Git\Umbraco-Mandatory\bin\roslyn\vbc.exe.config
+E:\Git\Umbraco-Mandatory\bin\roslyn\vbc.rsp
+E:\Git\Umbraco-Mandatory\bin\roslyn\VBCSCompiler.exe
+E:\Git\Umbraco-Mandatory\bin\roslyn\VBCSCompiler.exe.config
+E:\Git\Umbraco-Mandatory\bin\ClientDependency.Core.dll
+E:\Git\Umbraco-Mandatory\bin\ClientDependency.Core.Mvc.dll
+E:\Git\Umbraco-Mandatory\bin\CSharpTest.Net.Collections.dll
+E:\Git\Umbraco-Mandatory\bin\Examine.dll
+E:\Git\Umbraco-Mandatory\bin\HtmlAgilityPack.dll
+E:\Git\Umbraco-Mandatory\bin\ICSharpCode.SharpZipLib.dll
+E:\Git\Umbraco-Mandatory\bin\ImageProcessor.dll
+E:\Git\Umbraco-Mandatory\bin\ImageProcessor.Web.dll
+E:\Git\Umbraco-Mandatory\bin\LightInject.Annotation.dll
+E:\Git\Umbraco-Mandatory\bin\LightInject.dll
+E:\Git\Umbraco-Mandatory\bin\LightInject.Mvc.dll
+E:\Git\Umbraco-Mandatory\bin\LightInject.Web.dll
+E:\Git\Umbraco-Mandatory\bin\LightInject.WebApi.dll
+E:\Git\Umbraco-Mandatory\bin\Lucene.Net.dll
+E:\Git\Umbraco-Mandatory\bin\Markdown.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Security.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\Umbraco-Mandatory\bin\MiniProfiler.dll
+E:\Git\Umbraco-Mandatory\bin\MiniProfiler.Shared.dll
+E:\Git\Umbraco-Mandatory\bin\Newtonsoft.Json.dll
+E:\Git\Umbraco-Mandatory\bin\NPoco.dll
+E:\Git\Umbraco-Mandatory\bin\Owin.dll
+E:\Git\Umbraco-Mandatory\bin\Semver.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Enrichers.Process.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Enrichers.Thread.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Filters.Expressions.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Formatting.Compact.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Formatting.Compact.Reader.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Settings.AppSettings.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Sinks.Async.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Sinks.File.dll
+E:\Git\Umbraco-Mandatory\bin\Serilog.Sinks.Map.dll
+E:\Git\Umbraco-Mandatory\bin\Superpower.dll
+E:\Git\Umbraco-Mandatory\bin\System.Data.SqlServerCe.dll
+E:\Git\Umbraco-Mandatory\bin\System.Data.SqlServerCe.Entity.dll
+E:\Git\Umbraco-Mandatory\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Git\Umbraco-Mandatory\bin\System.Net.Http.Formatting.dll
+E:\Git\Umbraco-Mandatory\bin\System.Threading.Tasks.Dataflow.dll
+E:\Git\Umbraco-Mandatory\bin\System.ValueTuple.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.Helpers.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.Http.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.Http.WebHost.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.Mvc.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.Razor.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.WebPages.Deployment.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.WebPages.dll
+E:\Git\Umbraco-Mandatory\bin\System.Web.WebPages.Razor.dll
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Core.dll
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Examine.dll
+E:\Git\Umbraco-Mandatory\bin\Umbraco.ModelsBuilder.Embedded.dll
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Web.dll
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Web.UI.dll
+E:\Git\Umbraco-Mandatory\bin\ClientDependency.Core.pdb
+E:\Git\Umbraco-Mandatory\bin\ClientDependency.Core.Mvc.pdb
+E:\Git\Umbraco-Mandatory\bin\CSharpTest.Net.Collections.xml
+E:\Git\Umbraco-Mandatory\bin\Examine.pdb
+E:\Git\Umbraco-Mandatory\bin\HtmlAgilityPack.pdb
+E:\Git\Umbraco-Mandatory\bin\HtmlAgilityPack.xml
+E:\Git\Umbraco-Mandatory\bin\ImageProcessor.xml
+E:\Git\Umbraco-Mandatory\bin\ImageProcessor.Web.xml
+E:\Git\Umbraco-Mandatory\bin\LightInject.pdb
+E:\Git\Umbraco-Mandatory\bin\LightInject.xml
+E:\Git\Umbraco-Mandatory\bin\LightInject.Annotation.pdb
+E:\Git\Umbraco-Mandatory\bin\LightInject.Mvc.pdb
+E:\Git\Umbraco-Mandatory\bin\LightInject.Web.pdb
+E:\Git\Umbraco-Mandatory\bin\LightInject.Web.xml
+E:\Git\Umbraco-Mandatory\bin\LightInject.WebApi.pdb
+E:\Git\Umbraco-Mandatory\bin\LightInject.WebApi.xml
+E:\Git\Umbraco-Mandatory\bin\LightInject.WebApi.dll.config
+E:\Git\Umbraco-Mandatory\bin\Lucene.Net.pdb
+E:\Git\Umbraco-Mandatory\bin\Lucene.Net.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Git\Umbraco-Mandatory\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Security.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\Umbraco-Mandatory\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\Umbraco-Mandatory\bin\MiniProfiler.xml
+E:\Git\Umbraco-Mandatory\bin\MiniProfiler.Shared.xml
+E:\Git\Umbraco-Mandatory\bin\Newtonsoft.Json.pdb
+E:\Git\Umbraco-Mandatory\bin\Newtonsoft.Json.xml
+E:\Git\Umbraco-Mandatory\bin\Semver.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.pdb
+E:\Git\Umbraco-Mandatory\bin\Serilog.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Enrichers.Thread.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Filters.Expressions.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Formatting.Compact.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Formatting.Compact.Reader.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Sinks.Async.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Sinks.File.xml
+E:\Git\Umbraco-Mandatory\bin\Serilog.Sinks.Map.xml
+E:\Git\Umbraco-Mandatory\bin\Superpower.xml
+E:\Git\Umbraco-Mandatory\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Git\Umbraco-Mandatory\bin\System.Net.Http.Formatting.xml
+E:\Git\Umbraco-Mandatory\bin\System.Threading.Tasks.Dataflow.xml
+E:\Git\Umbraco-Mandatory\bin\System.ValueTuple.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.Helpers.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.Http.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.Http.WebHost.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.Mvc.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.Razor.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.WebPages.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.WebPages.Deployment.xml
+E:\Git\Umbraco-Mandatory\bin\System.Web.WebPages.Razor.xml
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Core.pdb
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Core.xml
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Examine.pdb
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Examine.xml
+E:\Git\Umbraco-Mandatory\bin\Umbraco.ModelsBuilder.Embedded.pdb
+E:\Git\Umbraco-Mandatory\bin\Umbraco.ModelsBuilder.Embedded.xml
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Web.pdb
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Web.xml
+E:\Git\Umbraco-Mandatory\bin\Umbraco.Web.UI.xml
+E:\Git\Umbraco-Mandatory\obj\Debug\Aarhus-Web-Dev-Coop.csproj.CopyComplete
+E:\Git\Umbraco-Mandatory\obj\Debug\Aarhus-Web-Dev-Coop.dll
+E:\Git\Umbraco-Mandatory\obj\Debug\Aarhus-Web-Dev-Coop.pdb
+E:\Git\Umbraco-Mandatory\obj\Debug\Aarhus-Web-Dev-Coop.csprojAssemblyReference.cache
+E:\Git\Umbraco-Mandatory-New\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Git\Umbraco-Mandatory-New\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Git\Umbraco-Mandatory-New\bin\amd64\sqlceca40.dll
+E:\Git\Umbraco-Mandatory-New\bin\amd64\sqlcecompact40.dll
+E:\Git\Umbraco-Mandatory-New\bin\amd64\sqlceer40EN.dll
+E:\Git\Umbraco-Mandatory-New\bin\amd64\sqlceme40.dll
+E:\Git\Umbraco-Mandatory-New\bin\amd64\sqlceqp40.dll
+E:\Git\Umbraco-Mandatory-New\bin\amd64\sqlcese40.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Git\Umbraco-Mandatory-New\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\sqlceca40.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\sqlcecompact40.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\sqlceer40EN.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\sqlceme40.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\sqlceqp40.dll
+E:\Git\Umbraco-Mandatory-New\bin\x86\sqlcese40.dll
+E:\Git\Umbraco-Mandatory-New\bin\Aarhus-Web-Dev-Coop.dll.config
+E:\Git\Umbraco-Mandatory-New\bin\Aarhus-Web-Dev-Coop.dll
+E:\Git\Umbraco-Mandatory-New\bin\Aarhus-Web-Dev-Coop.pdb
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\csc.exe
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\csc.exe.config
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\csc.rsp
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\csi.exe
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\csi.exe.config
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\csi.rsp
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.AppContext.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Collections.Immutable.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Console.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Globalization.Calendars.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.IO.Compression.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.IO.FileSystem.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Net.Http.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Net.Sockets.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.ValueTuple.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Xml.XPath.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\vbc.exe
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\vbc.exe.config
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\vbc.rsp
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\VBCSCompiler.exe
+E:\Git\Umbraco-Mandatory-New\bin\roslyn\VBCSCompiler.exe.config
+E:\Git\Umbraco-Mandatory-New\bin\ClientDependency.Core.dll
+E:\Git\Umbraco-Mandatory-New\bin\ClientDependency.Core.Mvc.dll
+E:\Git\Umbraco-Mandatory-New\bin\CSharpTest.Net.Collections.dll
+E:\Git\Umbraco-Mandatory-New\bin\Examine.dll
+E:\Git\Umbraco-Mandatory-New\bin\HtmlAgilityPack.dll
+E:\Git\Umbraco-Mandatory-New\bin\ICSharpCode.SharpZipLib.dll
+E:\Git\Umbraco-Mandatory-New\bin\ImageProcessor.dll
+E:\Git\Umbraco-Mandatory-New\bin\ImageProcessor.Web.dll
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Annotation.dll
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.dll
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Mvc.dll
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Web.dll
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.WebApi.dll
+E:\Git\Umbraco-Mandatory-New\bin\Lucene.Net.dll
+E:\Git\Umbraco-Mandatory-New\bin\Markdown.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Security.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\Umbraco-Mandatory-New\bin\MiniProfiler.dll
+E:\Git\Umbraco-Mandatory-New\bin\MiniProfiler.Shared.dll
+E:\Git\Umbraco-Mandatory-New\bin\Newtonsoft.Json.dll
+E:\Git\Umbraco-Mandatory-New\bin\NPoco.dll
+E:\Git\Umbraco-Mandatory-New\bin\Owin.dll
+E:\Git\Umbraco-Mandatory-New\bin\Semver.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Enrichers.Process.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Enrichers.Thread.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Filters.Expressions.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Formatting.Compact.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Formatting.Compact.Reader.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Settings.AppSettings.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Sinks.Async.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Sinks.File.dll
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Sinks.Map.dll
+E:\Git\Umbraco-Mandatory-New\bin\Superpower.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Data.SqlServerCe.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Data.SqlServerCe.Entity.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Net.Http.Formatting.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Threading.Tasks.Dataflow.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.ValueTuple.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Helpers.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Http.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Http.WebHost.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Mvc.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Razor.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.WebPages.Deployment.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.WebPages.dll
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.WebPages.Razor.dll
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Core.dll
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Examine.dll
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.ModelsBuilder.Embedded.dll
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.dll
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.UI.dll
+E:\Git\Umbraco-Mandatory-New\bin\ClientDependency.Core.pdb
+E:\Git\Umbraco-Mandatory-New\bin\ClientDependency.Core.Mvc.pdb
+E:\Git\Umbraco-Mandatory-New\bin\CSharpTest.Net.Collections.xml
+E:\Git\Umbraco-Mandatory-New\bin\Examine.pdb
+E:\Git\Umbraco-Mandatory-New\bin\HtmlAgilityPack.pdb
+E:\Git\Umbraco-Mandatory-New\bin\HtmlAgilityPack.xml
+E:\Git\Umbraco-Mandatory-New\bin\ImageProcessor.xml
+E:\Git\Umbraco-Mandatory-New\bin\ImageProcessor.Web.xml
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.pdb
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.xml
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Annotation.pdb
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Mvc.pdb
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Web.pdb
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.Web.xml
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.WebApi.pdb
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.WebApi.xml
+E:\Git\Umbraco-Mandatory-New\bin\LightInject.WebApi.dll.config
+E:\Git\Umbraco-Mandatory-New\bin\Lucene.Net.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Lucene.Net.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Security.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\Umbraco-Mandatory-New\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\Umbraco-Mandatory-New\bin\MiniProfiler.xml
+E:\Git\Umbraco-Mandatory-New\bin\MiniProfiler.Shared.xml
+E:\Git\Umbraco-Mandatory-New\bin\Newtonsoft.Json.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Newtonsoft.Json.xml
+E:\Git\Umbraco-Mandatory-New\bin\Semver.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Enrichers.Thread.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Filters.Expressions.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Formatting.Compact.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Formatting.Compact.Reader.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Sinks.Async.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Sinks.File.xml
+E:\Git\Umbraco-Mandatory-New\bin\Serilog.Sinks.Map.xml
+E:\Git\Umbraco-Mandatory-New\bin\Superpower.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Net.Http.Formatting.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Threading.Tasks.Dataflow.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.ValueTuple.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Helpers.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Http.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Http.WebHost.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Mvc.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.Razor.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.WebPages.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.WebPages.Deployment.xml
+E:\Git\Umbraco-Mandatory-New\bin\System.Web.WebPages.Razor.xml
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Core.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Core.xml
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Examine.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Examine.xml
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.ModelsBuilder.Embedded.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.ModelsBuilder.Embedded.xml
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.pdb
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.xml
+E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.UI.xml
+E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.csprojAssemblyReference.cache
+E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.csproj.CopyComplete
+E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.dll
+E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.pdb

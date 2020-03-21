@@ -1,0 +1,51 @@
+﻿@model Aarhus_Web_Dev_Coop.ViewModels.ContactForm
+
+@{
+    Html.EnableClientValidation();
+    Html.EnableUnobtrusiveJavaScript();
+}
+
+
+@if (TempData["success"] == null)
+{
+    using (Html.BeginUmbracoForm("HandleFormSubmit", "ContactFormSurface", new object { },
+    new { @class = "contact-form", autocomplete = "off" }))
+    {
+        <section>
+            @*<input for="Name" type="text" placeholder="Name">*@
+            @Html.TextBoxFor(m => m.Name, new { placeholder = "Name", autocomplete = "off" })
+            <i class="fa fa-fw fa-user"></i>
+            @Html.ValidationMessageFor(m => m.Name)
+        </section>
+
+        <section>
+            @Html.TextBoxFor(m => m.Email, new { placeholder = "E-mail" })
+            <i class="fa fa-fw fa-envelope"></i>
+            @Html.ValidationMessageFor(m => m.Email)
+        </section>
+
+        <section>
+            @Html.TextBoxFor(m => m.Subject, new { placeholder = "Subject" })
+            <i class="fa fa-fw fa-splotch"></i>
+            @Html.ValidationMessageFor(m => m.Subject)
+
+        </section>
+
+        <section>
+            @Html.TextAreaFor(m => m.Message, new { placeholder = "Type your message" })
+            @Html.ValidationMessageFor(m => m.Message)
+        </section>
+
+        <button class="button" type="submit" id="contact-submit">Submit</button>
+    }
+}
+else
+{
+    <div class="email-success">
+        <img src="~/assets/images/email-success.png" alt="email-success" class="img-fluid" />
+        <h1>SUCCESS!</h1>
+        <p>Your e-mail has been sent!</p>
+    </div>
+}
+
+

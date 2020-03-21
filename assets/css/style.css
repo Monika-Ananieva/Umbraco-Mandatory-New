@@ -1,0 +1,554 @@
+﻿body {
+    
+}
+
+.green {
+    color: #6ED1CE;
+}
+
+.min-height {
+    min-height: 71vh;
+}
+.container-fluid {
+    padding-left: 30px;
+}
+
+/*** NAVIGATION ***/
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+/*Normal color of nav items*/
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+/*Change the color of the active item*/
+.navbar-light .navbar-nav .active > .nav-link {
+    color: #6ED1CE;
+}
+
+.navbar-brand {
+    font-family: 'Karla', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 0;
+    position: absolute;
+    left: 15px;
+    top: 0px;
+}
+
+
+/******** HOME PAGE ********/
+.ellipse {
+    position: absolute;
+    z-index: -1;
+    width: 900px;
+    height: 500px;
+    top: -40px;
+    background-image: url("../images/Ellipse.png");
+    background-position: center;
+    background-size: cover;
+    transition: 0.2s;
+}
+
+.home-headline {
+    font-family: 'Roboto', sans-serif;
+    font-size: 6.3vh;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #68696A;
+}
+
+.home-content {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #504E4E;
+}
+
+/*Adjusting some things on medium sized screens*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .home-headline {
+        font-size: 4vh;
+    }
+
+    .home-content {
+        font-size: 14px;
+    }
+
+    .button {
+        width: 160px;
+        height: 50px;
+        font-size: 20px;
+    }
+}
+/* Button */
+.button {
+    width: 260px;
+    height: 60px;
+    background-color: #6ED1CE;
+    border: none;
+    border-radius: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    color: white;
+    margin: 20px 0;
+    transition: 0.2s;
+    outline: none;
+}
+
+    .button:hover {
+        cursor: pointer;
+        box-shadow: 0px 15px 20px rgba(110, 209, 206, 0.4);
+        color: #fff;
+        transform: translateY(-7px);
+    }
+
+hr {
+    width: 159px;
+    border: 2px solid #6ED1CE;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+/******** NEWS /homepage/ ********/
+.news-headline {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color: #68696A;
+}
+/* Highlights */
+.pink {
+    background-color: #F67FA5;
+}
+
+
+
+.label-big {
+    width: 150px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 5px;
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+
+.highlight-headline {
+    color: #68696A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    max-width: 730px;
+}
+
+.highlights-content {
+    color: #797C7D;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    max-width: 730px;
+}
+
+.highlights-author {
+    color: #c4c4c4;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    display: inline;
+    margin-right: 40px;
+}
+
+/* Recent */
+.img-small {
+    width: 220px;
+    height: 120px;
+}
+
+.pad-left {
+    padding-left: 0;
+}
+
+.label-small {
+    width: 75px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 5px;
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+
+.recent-headline {
+    color: #68696A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 530px;
+}
+
+.recent-content {
+    color: #797C7D;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    max-width: 530px;
+}
+
+.recent-author {
+    color: #c4c4c4;
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+    font-weight: 300;
+    display: inline;
+    margin-right: 30px;
+
+}
+
+
+
+/******** ABOUT US********/
+
+.about-grid {
+}
+
+    .about-grid > h1 {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        color: #6ed1ce;
+        margin: 35px 0;
+    }
+
+    .about-grid > p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        max-width: 860px;
+    }
+
+    .about-grid > img {
+        max-width: 100%;
+    }
+
+
+
+/******** FOOTER ********/
+
+.card-footer {
+    height: auto;
+    border: none;
+    background-color: #6ED1CE;
+    margin-top: 60px;
+    padding: 0;
+}
+
+.footer-logo {
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.footer-copyright {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    color: white;
+}
+
+.footer-contact > p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+
+
+
+/********CONTACT US ********/
+
+
+
+/* Styling the input fields for text */
+.contact-form input[type=text], input[type=password] {
+    width: 400px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ADACAC;
+    margin-bottom: 30px;
+    height: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-bottom: 0;
+    outline: none;
+    transition: 0.2s;
+    padding-left: 45px;
+}
+
+    /* Styling the input fields for text when focused and the placeholder */
+
+    .contact-form input[type=text]:focus, input[type=password]:focus {
+        color: #6ED1CE;
+        border-bottom: 1px solid #6ED1CE;
+    }
+
+    .contact-form input::placeholder, input[type=password]::placeholder {
+        color: #ADACAC;
+    }
+
+    .contact-form fieldset {
+        border: none;
+    }
+
+/* Adding the icons to the left */
+.contact-form section {
+    position: relative;
+}
+
+.contact-form i.fa {
+    position: absolute;
+    top: 9px;
+    left: 7px;
+    font-size: 25px;
+    transition: 0.2s;
+    color: #534F4F;
+}
+
+.contact-form input[type=text]:focus ~ i.fa, input[type=password]:focus ~ i.fa {
+    color: #6ED1CE;
+    opacity: 1;
+}
+
+textarea {
+    width: 480px;
+    height: 200px;
+    resize: none;
+    border: 1px solid #ADACAC;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+    textarea::placeholder {
+        color: #ADACAC;
+    }
+
+    textarea:focus {
+        outline-color: #6ED1CE;
+    }
+
+@media only screen and (max-width: 700px) {
+    textarea {
+        width: 400px;
+    }
+}
+
+
+.field-validation-error {
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+/*Email success css*/
+
+.email-success > img {
+    display: block;
+    margin: 0 auto;
+}
+
+.email-success > h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #6ed1ce;
+}
+
+.email-success > p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    color: #ADACAC;
+}
+
+/*Contact headlines and text */
+.contact-content h1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.contact-content p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #797C7D;
+    max-width: 600px;
+}
+
+.contact-content p:first-child {
+    padding-top: 20px;
+}
+
+.contact-content h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #797C7D;
+    padding-top: 30px;
+}
+
+.contact-help {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #6ed1ce;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.contact-help .fab {
+    color: #797C7D;
+    padding-right: 30px;
+}
+
+.contact-content hr {
+    display: none;
+}
+
+@media only screen and (max-width: 991px) {
+    .contact-content hr {
+        display: block;
+        width: 50%;
+        float: left;
+    }
+}
+.max-width {
+    max-width: 1300px;
+}
+
+/**** SOME OF THE LOGIN CSS ****/
+/*Rest is from the contact section*/
+
+.login-form {
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+    .login-form h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 56px;
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 50px;
+    }
+
+    .login-form p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .login-form span {
+        font-weight: 400;
+        font-size: 24px;
+        color: #6ed1ce;
+    }
+
+
+
+    /********   MEMBERS   *******/
+
+    .members img {
+        width:170px;
+    }
+
+.member-big-box {
+    width: 280px;
+    height: 420px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 30px;
+}
+
+.member-top-box {
+    position: absolute;
+    width: 280px;
+    height: 88px;
+    background-color: #6ed1ce;
+}
+
+.member-bottom-box {
+    position: absolute;
+    width: 280px;
+    height: 120px;
+    background-color: #6ed1ce;
+    bottom: 0;
+}
+
+.members .col-lg-4 {
+    margin-bottom: 30px;
+}
+
+.content-address {
+    position: absolute;
+    top: 170px;
+    left: 33px;
+}
+
+    .content-address h1 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        color: #6ed1ce;
+        text-align: center;
+    }
+
+    .content-address p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 15px;
+        color: #504E4E;
+        text-align: center;
+    }
+
+.member-image {
+    position: absolute;
+    top: 16px;
+    left: 75px;
+}
+
+.content-skills {
+    position: absolute;
+    top: 20px;
+    left: 51px;
+}
+    .content-skills h1 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+    }
+
+    .content-skills p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 15px;
+        color: white;
+        text-align: center;
+    }
