@@ -9,7 +9,7 @@
     Layout = "Master.cshtml";
 }
 
-<div class="members">
+@*<div class="members">
 
     @foreach (var member in members)
     {
@@ -38,57 +38,55 @@
         }
     }
 
-</div>
+</div>*@
 
 <div class="container-fluid members">
     <div class="row">
-        <div class="col-lg-4">
-            <div class="member-big-box">
-                <div class="member-top-box"></div>
+        <div class="col-lg-12">
+            <h1 class="generic-headline">Members</h1>
+            <p class="generic-p">Here you can see our active members and find some information about them</p>
+        </div>
+    </div>
+    <div class="row">
+        @foreach (var member in members)
+        {
+            string imageUdi = member.GetValue<string>("photo");
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                <div class="member-big-box">
+                    <div class="member-top-box"></div>
 
-                <div class="member-image">
-                    <img src="~/assets/images/cat-member.png" alt="Alternate Text" class="rounded-circle" />
-                </div>
+                    <div class="member-image">
+                        @if (!string.IsNullOrEmpty(imageUdi))
+                        {
+                            string imageUrl = Umbraco.PublishedContent(Udi.Parse(imageUdi)).Url;
 
-                <div class="content-address">
-                    <h1>Dimitar Krastev</h1>
-                    <p>Avaenget 99</p>
-                    <p>8250 Aarhus</p>
-                    <p>dimitar.krastev.design@gmail.com</p>
-                </div>
+                            <img src="@imageUrl" class="rounded-circle" />
+                        }
+                    </div>
 
-                <div class="member-bottom-box">
-                    <div class="content-skills">
-                        <h1>Skills</h1>
-                        <p>CSS, HTML5, Wordpress</p>
+                    <div class="content-address">
+                        <h1>@member.Name</h1>
+                        <p>@member.GetValue("address")</p>
+                        <p>
+                            @member.GetValue("zip") @member.GetValue("city")
+                        </p>
+                        <p>@member.Email</p>
+                    </div>
+
+                    <div class="member-bottom-box">
+                        <div class="content-skills">
+                            <h1>Skills</h1>
+                            @if (member.GetValue("skills") != null)
+                            {
+                                string[] skills = member.GetValue("skills").ToString().Split(',');
+                                string skillString = string.Join(", ", skills.Select(item => item)).Replace("\"", "").TrimStart('[').TrimEnd(']');
+                                <p>@skillString</p>
+                            }
+
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-
-
-        <div class="col-lg-4">
-            <div class="member-big-box">
-                <div class="member-top-box"></div>
-
-                <div class="member-image">
-                    <img src="~/assets/images/cat-member.png" alt="Alternate Text" class="rounded-circle"/>
-                </div>
-
-                <div class="content-address">
-                    <h1>Dimitar Krastev</h1>
-                    <p>Avaenget 99</p>
-                    <p>8250 Aarhus</p>
-                    <p>dimitar.krastev.design@gmail.com</p>
-                </div>
-
-                <div class="member-bottom-box">
-                    <div class="content-skills">
-                        <h1>Skills</h1>
-                        <p>CSS, HTML5, Wordpress</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        }
     </div>
 </div>
