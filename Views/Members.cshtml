@@ -9,37 +9,6 @@
     Layout = "Master.cshtml";
 }
 
-@*<div class="members">
-
-    @foreach (var member in members)
-    {
-        string imageUdi = member.GetValue<string>("photo");
-
-        if (!string.IsNullOrEmpty(imageUdi))
-        {
-            string imageUrl = Umbraco.PublishedContent(Udi.Parse(imageUdi)).Url;
-
-            <img src="@imageUrl" class="rounded-circle" />
-        }
-
-        <p>
-            @member.Name <br>
-            @member.GetValue("address")<br>
-            @member.GetValue("zip")
-            @member.GetValue("city") <br>
-            Email: @member.Email<br>
-        </p>
-
-        if (member.GetValue("skills") != null)
-        {
-            string[] skills = member.GetValue("skills").ToString().Split(',');
-            string skillString = string.Join(", ", skills.Select(item => item)).Replace("\"", "").TrimStart('[').TrimEnd(']');
-            <span>@skillString</span>
-        }
-    }
-
-</div>*@
-
 <div class="container-fluid members">
     <div class="row">
         <div class="col-lg-12">

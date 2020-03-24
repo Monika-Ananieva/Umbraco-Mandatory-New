@@ -454,6 +454,10 @@
     <Content Include="Views\Partials\_loginForm.cshtml" />
     <Content Include="Views\Login.cshtml" />
     <Content Include="Views\Members.cshtml" />
+    <Content Include="Views\Event.cshtml" />
+    <Content Include="Views\Events.cshtml" />
+    <Content Include="Views\ForbiddenAccess.cshtml" />
+    <Content Include="Views\Partials\_news.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

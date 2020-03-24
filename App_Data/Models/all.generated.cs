@@ -6,7 +6,7 @@ using  Umbraco.Core.Models;
 using  Umbraco.Core.Models.PublishedContent;
 using  Umbraco.Web;
 using  Umbraco.ModelsBuilder.Embedded;
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "af2e9a6d16f0dcaf")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "b81e463c479c54b7")]
 [assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
 
 
@@ -279,6 +279,13 @@ namespace Umbraco.Web.PublishedModels
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("articleContent")]
 		public global::System.Web.IHtmlString ArticleContent => this.Value<global::System.Web.IHtmlString>("articleContent");
+
+		///<summary>
+		/// articlePicture
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("articlePicture")]
+		public global::Umbraco.Core.Models.PublishedContent.IPublishedContent ArticlePicture => this.Value<global::Umbraco.Core.Models.PublishedContent.IPublishedContent>("articlePicture");
 
 		///<summary>
 		/// Article Title
@@ -849,7 +856,7 @@ namespace Umbraco.Web.PublishedModels
 		///</summary>
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("eventDescription")]
-		public global::System.Web.IHtmlString EventDescription => this.Value<global::System.Web.IHtmlString>("eventDescription");
+		public string EventDescription => this.Value<string>("eventDescription");
 
 		///<summary>
 		/// Event End Date
@@ -871,6 +878,13 @@ namespace Umbraco.Web.PublishedModels
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("eventTitle")]
 		public string EventTitle => this.Value<string>("eventTitle");
+
+		///<summary>
+		/// Location Related
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("locationRelated")]
+		public global::Umbraco.Core.Models.PublishedContent.IPublishedContent LocationRelated => this.Value<global::Umbraco.Core.Models.PublishedContent.IPublishedContent>("locationRelated");
 
 		///<summary>
 		/// Speakers
@@ -910,7 +924,7 @@ namespace Umbraco.Web.PublishedModels
 		///</summary>
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("presentation")]
-		public global::System.Web.IHtmlString Presentation => this.Value<global::System.Web.IHtmlString>("presentation");
+		public string Presentation => this.Value<string>("presentation");
 
 		///<summary>
 		/// Speaker End  Time
@@ -939,6 +953,140 @@ namespace Umbraco.Web.PublishedModels
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("speakerStartTime")]
 		public global::System.DateTime SpeakerStartTime => this.Value<global::System.DateTime>("speakerStartTime");
+	}
+
+	/// <summary>Locations</summary>
+	[PublishedModel("locations")]
+	public partial class Locations : PublishedContentModel
+	{
+		// helpers
+#pragma warning disable 0109 // new is redundant
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new const string ModelTypeAlias = "locations";
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new const PublishedItemType ModelItemType = PublishedItemType.Content;
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new static IPublishedContentType GetModelContentType()
+			=> PublishedModelUtility.GetModelContentType(ModelItemType, ModelTypeAlias);
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public static IPublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<Locations, TValue>> selector)
+			=> PublishedModelUtility.GetModelPropertyType(GetModelContentType(), selector);
+#pragma warning restore 0109
+
+		// ctor
+		public Locations(IPublishedContent content)
+			: base(content)
+		{ }
+
+		// properties
+	}
+
+	/// <summary>Location</summary>
+	[PublishedModel("location")]
+	public partial class Location : PublishedContentModel
+	{
+		// helpers
+#pragma warning disable 0109 // new is redundant
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new const string ModelTypeAlias = "location";
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new const PublishedItemType ModelItemType = PublishedItemType.Content;
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new static IPublishedContentType GetModelContentType()
+			=> PublishedModelUtility.GetModelContentType(ModelItemType, ModelTypeAlias);
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public static IPublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<Location, TValue>> selector)
+			=> PublishedModelUtility.GetModelPropertyType(GetModelContentType(), selector);
+#pragma warning restore 0109
+
+		// ctor
+		public Location(IPublishedContent content)
+			: base(content)
+		{ }
+
+		// properties
+
+		///<summary>
+		/// Location Address
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("locationAddress")]
+		public string LocationAddress => this.Value<string>("locationAddress");
+
+		///<summary>
+		/// Location Building
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("locationBuilding")]
+		public string LocationBuilding => this.Value<string>("locationBuilding");
+
+		///<summary>
+		/// Location City
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("locationCity")]
+		public string LocationCity => this.Value<string>("locationCity");
+
+		///<summary>
+		/// Location Title
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("locationTitle")]
+		public string LocationTitle => this.Value<string>("locationTitle");
+
+		///<summary>
+		/// Location Zip
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("locationZip")]
+		public string LocationZip => this.Value<string>("locationZip");
+	}
+
+	/// <summary>Related Content</summary>
+	[PublishedModel("relatedContent")]
+	public partial class RelatedContent : PublishedContentModel, IMaster
+	{
+		// helpers
+#pragma warning disable 0109 // new is redundant
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new const string ModelTypeAlias = "relatedContent";
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new const PublishedItemType ModelItemType = PublishedItemType.Content;
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public new static IPublishedContentType GetModelContentType()
+			=> PublishedModelUtility.GetModelContentType(ModelItemType, ModelTypeAlias);
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		public static IPublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<RelatedContent, TValue>> selector)
+			=> PublishedModelUtility.GetModelPropertyType(GetModelContentType(), selector);
+#pragma warning restore 0109
+
+		// ctor
+		public RelatedContent(IPublishedContent content)
+			: base(content)
+		{ }
+
+		// properties
+
+		///<summary>
+		/// Meta Description
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("metaDescription")]
+		public string MetaDescription => global::Umbraco.Web.PublishedModels.Master.GetMetaDescription(this);
+
+		///<summary>
+		/// Meta Keywords
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("metaKeywords")]
+		public string MetaKeywords => global::Umbraco.Web.PublishedModels.Master.GetMetaKeywords(this);
+
+		///<summary>
+		/// umbracoNaviHide
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("umbracoNaviHide")]
+		public bool UmbracoNaviHide => global::Umbraco.Web.PublishedModels.Master.GetUmbracoNaviHide(this);
 	}
 
 	/// <summary>Folder</summary>

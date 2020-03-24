@@ -1,8 +1,14 @@
 ﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.ArticleItem>
 @using ContentModels = Umbraco.Web.PublishedModels;
 @{
-	Layout = "Master.cshtml";
+    Layout = "Master.cshtml";
 }
 
-<h1>@Model.Value("articleTitle")</h1>
-<p>@Model.Value("articleContent")</p>
+<div class="container-fluid">
+    <div class="row d-flex justify-content-center">
+        <div class="col-lg-8">
+            <h1 class="generic-headline">@Model.Value("articleTitle")</h1>
+            <div class="article-p">@Model.Value("articleContent")</div>
+        </div>
+    </div>
+</div>

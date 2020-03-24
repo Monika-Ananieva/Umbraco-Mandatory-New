@@ -600,7 +600,6 @@ E:\Git\Umbraco-Mandatory-New\bin\Umbraco.ModelsBuilder.Embedded.xml
 E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.pdb
 E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.xml
 E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.UI.xml
-E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.csprojAssemblyReference.cache
 E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.csproj.CopyComplete
 E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.dll
 E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.pdb

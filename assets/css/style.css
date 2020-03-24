@@ -215,11 +215,11 @@ hr {
     font-weight: 300;
     display: inline;
     margin-right: 30px;
-
 }
 
-
-
+.article a {
+    color: #6ED1CE;
+}
 /******** ABOUT US********/
 
 .about-grid {
@@ -588,3 +588,29 @@ textarea {
     font-size: 18px;
     margin-bottom: 35px;
 }
+
+/********* EVENTS ************/
+.events-highlight {
+    font-weight: 700;
+    color: #6ed1ce;
+}
+
+
+/**************ARTICLES***********/
+.article-p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.articles ul {
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    padding-left: 0;
+}
+
+.articles a {
+    color: #6ed1ce;
+}
+

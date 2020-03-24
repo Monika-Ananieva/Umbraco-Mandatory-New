@@ -1,0 +1,31 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
+
+@{
+    var selection = Umbraco.Content(Guid.Parse("c5e4fa67-2a66-4fe6-b334-93c0eaa0cabe"))
+    .ChildrenOfType("articleItem")
+    .Where(x => x.IsVisible());
+}
+
+<h1 class="news-headline">News</h1>
+<br />
+
+<div class="row article">
+    @foreach (var item in selection)
+    {
+        string imageUrl = "#";
+        if (item.HasValue("articlePicture"))
+        {
+            var image = item.Value<IPublishedContent>("articlePicture");
+            imageUrl = image.GetCropUrl();
+        }
+
+    <div class="col-lg-4 mb-4">
+        <img src="@imageUrl" class="img-fluid" />
+        <p class="label-small pink">News</p>
+        <h3 class="recent-headline"> @item.Value("articleTitle")</h3>
+        <p class="recent-content"> @item.Value("articleContent").ToString().Truncate(100) <a href="@item.Url">Read More..</a></p>
+        
+    </div>
+    }
+
+</div>
