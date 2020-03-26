@@ -22,11 +22,5 @@ namespace Aarhus_Web_Dev_Coop.ViewModels
         [Required(ErrorMessage = "*Please enter a message")]
         public string Message { get; set; }
 
-        //public string Name { get; set; }
-        //public string Email { get; set; }
-        //public string Subject { get; set; }
-        //public string Message { get; set; }
-
-
     }
 }

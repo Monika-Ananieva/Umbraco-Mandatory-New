@@ -12,7 +12,6 @@
     new { @class = "contact-form", autocomplete = "off" }))
     {
         <section>
-            @*<input for="Name" type="text" placeholder="Name">*@
             @Html.TextBoxFor(m => m.Name, new { placeholder = "Name", autocomplete = "off" })
             <i class="fa fa-fw fa-user"></i>
             @Html.ValidationMessageFor(m => m.Name)

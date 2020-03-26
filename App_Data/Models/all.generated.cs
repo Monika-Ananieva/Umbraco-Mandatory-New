@@ -6,8 +6,8 @@ using  Umbraco.Core.Models;
 using  Umbraco.Core.Models.PublishedContent;
 using  Umbraco.Web;
 using  Umbraco.ModelsBuilder.Embedded;
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "90e7d88cc3aacb57")]
-[assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "60ded92689ea0188")]
+[assembly:System.Reflection.AssemblyVersion("0.0.0.2")]
 
 
 // FILE: models.generated.cs
@@ -164,67 +164,6 @@ namespace Umbraco.Web.PublishedModels
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("siteTitle")]
 		public string SiteTitle => this.Value<string>("siteTitle");
-
-		///<summary>
-		/// Meta Description
-		///</summary>
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		[ImplementPropertyType("metaDescription")]
-		public string MetaDescription => global::Umbraco.Web.PublishedModels.Master.GetMetaDescription(this);
-
-		///<summary>
-		/// Meta Keywords
-		///</summary>
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		[ImplementPropertyType("metaKeywords")]
-		public string MetaKeywords => global::Umbraco.Web.PublishedModels.Master.GetMetaKeywords(this);
-
-		///<summary>
-		/// umbracoNaviHide
-		///</summary>
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		[ImplementPropertyType("umbracoNaviHide")]
-		public bool UmbracoNaviHide => global::Umbraco.Web.PublishedModels.Master.GetUmbracoNaviHide(this);
-	}
-
-	/// <summary>Text Page</summary>
-	[PublishedModel("textPage")]
-	public partial class TextPage : PublishedContentModel, IMaster
-	{
-		// helpers
-#pragma warning disable 0109 // new is redundant
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		public new const string ModelTypeAlias = "textPage";
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		public new const PublishedItemType ModelItemType = PublishedItemType.Content;
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		public new static IPublishedContentType GetModelContentType()
-			=> PublishedModelUtility.GetModelContentType(ModelItemType, ModelTypeAlias);
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		public static IPublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<TextPage, TValue>> selector)
-			=> PublishedModelUtility.GetModelPropertyType(GetModelContentType(), selector);
-#pragma warning restore 0109
-
-		// ctor
-		public TextPage(IPublishedContent content)
-			: base(content)
-		{ }
-
-		// properties
-
-		///<summary>
-		/// Header
-		///</summary>
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		[ImplementPropertyType("header")]
-		public string Header => this.Value<string>("header");
-
-		///<summary>
-		/// Main Content
-		///</summary>
-		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
-		[ImplementPropertyType("mainContent")]
-		public global::System.Web.IHtmlString MainContent => this.Value<global::System.Web.IHtmlString>("mainContent");
 
 		///<summary>
 		/// Meta Description
