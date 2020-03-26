@@ -6,7 +6,7 @@ using  Umbraco.Core.Models;
 using  Umbraco.Core.Models.PublishedContent;
 using  Umbraco.Web;
 using  Umbraco.ModelsBuilder.Embedded;
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "b81e463c479c54b7")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "90e7d88cc3aacb57")]
 [assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
 
 
@@ -358,7 +358,7 @@ namespace Umbraco.Web.PublishedModels
 
 	/// <summary>Project Item</summary>
 	[PublishedModel("projectItem")]
-	public partial class ProjectItem : PublishedContentModel
+	public partial class ProjectItem : PublishedContentModel, IMaster
 	{
 		// helpers
 #pragma warning disable 0109 // new is redundant
@@ -401,6 +401,27 @@ namespace Umbraco.Web.PublishedModels
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
 		[ImplementPropertyType("projectTitle")]
 		public string ProjectTitle => this.Value<string>("projectTitle");
+
+		///<summary>
+		/// Meta Description
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("metaDescription")]
+		public string MetaDescription => global::Umbraco.Web.PublishedModels.Master.GetMetaDescription(this);
+
+		///<summary>
+		/// Meta Keywords
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("metaKeywords")]
+		public string MetaKeywords => global::Umbraco.Web.PublishedModels.Master.GetMetaKeywords(this);
+
+		///<summary>
+		/// umbracoNaviHide
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("umbracoNaviHide")]
+		public bool UmbracoNaviHide => global::Umbraco.Web.PublishedModels.Master.GetUmbracoNaviHide(this);
 	}
 
 	/// <summary>Projects Overview</summary>
@@ -466,7 +487,7 @@ namespace Umbraco.Web.PublishedModels
 
 	/// <summary>Sitemap</summary>
 	[PublishedModel("sitemap")]
-	public partial class Sitemap : PublishedContentModel
+	public partial class Sitemap : PublishedContentModel, IMaster
 	{
 		// helpers
 #pragma warning disable 0109 // new is redundant
@@ -488,6 +509,27 @@ namespace Umbraco.Web.PublishedModels
 		{ }
 
 		// properties
+
+		///<summary>
+		/// Meta Description
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("metaDescription")]
+		public string MetaDescription => global::Umbraco.Web.PublishedModels.Master.GetMetaDescription(this);
+
+		///<summary>
+		/// Meta Keywords
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("metaKeywords")]
+		public string MetaKeywords => global::Umbraco.Web.PublishedModels.Master.GetMetaKeywords(this);
+
+		///<summary>
+		/// umbracoNaviHide
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.5.4")]
+		[ImplementPropertyType("umbracoNaviHide")]
+		public bool UmbracoNaviHide => global::Umbraco.Web.PublishedModels.Master.GetUmbracoNaviHide(this);
 	}
 
 	/// <summary>About us</summary>

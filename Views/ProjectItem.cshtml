@@ -3,3 +3,13 @@
 @{
 	Layout = "Master.cshtml";
 }
+
+    <div class="container-fluid">
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-12">
+                <h1 class="generic-headline">@Model.Value("projectTitle")</h1>
+                <div class="article-p">@Model.Value("projectDescription")</div>
+                <div class="article-p">Status: @Model.Value("projectStatus")</div>
+            </div>
+        </div>
+    </div>

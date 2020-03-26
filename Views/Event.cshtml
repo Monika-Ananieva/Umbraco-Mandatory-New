@@ -42,6 +42,12 @@
                     if (typedContentPicker != null)
                     {
                         <h1 class="generic-headline">@typedContentPicker.Name</h1>
+                        <p class="generic-p">
+                            <span class="events-highlight">Building:</span> @typedContentPicker.Value("locationBuilding") <br />
+                            <span class="events-highlight">Address:</span> @typedContentPicker.Value("locationAddress") <br />
+                            <span class="events-highlight">Address:</span>@typedContentPicker.Value("locationZip") @typedContentPicker.Value("locationCity")
+
+                        </p>
                     }
                 }
 

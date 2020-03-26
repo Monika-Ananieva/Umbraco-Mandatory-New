@@ -26,7 +26,23 @@
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             @foreach (var subMenuItem in item.Children().Where(x => x.IsVisible()))
                             {
-                                <a class="dropdown-item" href="@subMenuItem.Url"> @subMenuItem.Name </a>
+                                if (Umbraco.MemberHasAccess(subMenuItem.Path))
+                                {
+                                    if (subMenuItem.IsDocumentType("projectItem"))
+                                    {
+                                        if (subMenuItem.GetProperty("projectStatus").Value<string>() == "Completed")
+                                        {
+                                            <a class="dropdown-item" href="@subMenuItem.Url"> @subMenuItem.Name </a>
+                                        }
+
+                                    }
+
+                                    else
+                                    {
+                                        <a class="dropdown-item" href="@subMenuItem.Url"> @subMenuItem.Name </a>
+                                    }
+                                }
+
                             }
                         </div>
                     </li>

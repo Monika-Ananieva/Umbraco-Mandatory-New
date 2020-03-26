@@ -3,3 +3,31 @@
 @{
 	Layout = "Master.cshtml";
 }
+
+
+@{
+	var selection = Umbraco.Content(Guid.Parse("8b91a379-250f-4528-b6c7-d0369216726c"))
+    .Children()
+    .Where(x => x.IsVisible())
+    .OrderByDescending(x => x.CreateDate);
+}
+
+<div class="container-fluid">
+    <div class="row articles">
+        <div class="col-lg-12">
+            <h1 class="generic-headline">Projects</h1>
+            <p class="generic-p">Here you can find a list with links to our projects:</p>
+        </div>
+
+        <div class="col-lg-12">
+            <ul>
+                @foreach (var item in selection)
+                {
+                    <li>
+                        <a href="@item.Url">@item.Name</a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>

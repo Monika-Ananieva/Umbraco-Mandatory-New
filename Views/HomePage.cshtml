@@ -27,4 +27,12 @@
     @Html.Partial("_news")
 </div>
 
-
+<div class="container-fluid">
+    <h1 class="news-headline">Completed Projects</h1>
+    <p class="generic-p">Links to our completed projects</p>
+    <div class="row articles">
+        <div class="col-lg-12">
+            @Umbraco.RenderMacro("listNewestProjects")
+        </div>
+    </div>
+</div>

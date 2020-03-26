@@ -603,3 +603,4 @@ E:\Git\Umbraco-Mandatory-New\bin\Umbraco.Web.UI.xml
 E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.csproj.CopyComplete
 E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.dll
 E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.pdb
+E:\Git\Umbraco-Mandatory-New\obj\Debug\Aarhus-Web-Dev-Coop.csprojAssemblyReference.cache

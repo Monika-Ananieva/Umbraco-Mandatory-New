@@ -24,11 +24,12 @@
     const int maxLevelForSitemap = 4;
 
     @* Select visible children *@
-    var selection = node.Children.Where(x => x.IsVisible() && x.Level <= maxLevelForSitemap).ToArray();
+    var selection = node.Children.Where(x => x.IsVisible() && x.Level <= maxLevelForSitemap && x.Id != 2169).ToArray();
 
     @* If any items are returned, render a list *@
     if (selection.Length > 0)
     {
+    <div class="sitemap">
         <ul>
             @foreach (var item in selection)
             {
@@ -40,5 +41,6 @@
                 </li>
             }
         </ul>
+    </div>
     }
 }
